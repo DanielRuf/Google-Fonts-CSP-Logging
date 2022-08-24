@@ -1,5 +1,5 @@
 <?php
-header("Content-Security-Policy-Report-Only: default-src 'none'; report-uri /log.php");
+header("Content-Security-Policy-Report-Only: default-src 'none'; report-uri /csp-log.php");
 ?><!DOCTYPE html>
 <html lang="en">
 <head>
