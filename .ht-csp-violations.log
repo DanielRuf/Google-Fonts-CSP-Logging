@@ -1,0 +1,55 @@
+{
+    "csp-report": {
+        "blocked-uri": "https://fonts.googleapis.com/css?family=Nunito+Sans",
+        "document-uri": "http://localhost:8080/index.php",
+        "original-policy": "default-src 'none'; report-uri http://localhost:8080/log.php",
+        "referrer": "",
+        "violated-directive": "default-src",
+        "datetime": "2022-08-24T18:20:54+00:00"
+    }
+}{
+    "csp-report": {
+        "blocked-uri": "https://fonts.gstatic.com/s/nunitosans/v12/pe0qMImSLYBIv1o4X1M8cce9I9tAcVwo.woff2",
+        "document-uri": "http://localhost:8080/index.php",
+        "original-policy": "default-src 'none'; report-uri http://localhost:8080/log.php",
+        "referrer": "",
+        "violated-directive": "default-src",
+        "datetime": "2022-08-24T18:20:54+00:00"
+    }
+}{
+    "csp-report": {
+        "blocked-uri": "https://fonts.gstatic.com/s/nunitosans/v12/pe0qMImSLYBIv1o4X1M8ccezI9tAcVwob5A.woff2",
+        "document-uri": "http://localhost:8080/index.php",
+        "original-policy": "default-src 'none'; report-uri http://localhost:8080/log.php",
+        "referrer": "",
+        "violated-directive": "default-src",
+        "datetime": "2022-08-24T18:20:54+00:00"
+    }
+}{
+    "csp-report": {
+        "blocked-uri": "https://fonts.gstatic.com/s/nunitosans/v12/pe0qMImSLYBIv1o4X1M8cceyI9tAcVwob5A.woff2",
+        "document-uri": "http://localhost:8080/index.php",
+        "original-policy": "default-src 'none'; report-uri http://localhost:8080/log.php",
+        "referrer": "",
+        "violated-directive": "default-src",
+        "datetime": "2022-08-24T18:20:54+00:00"
+    }
+}{
+    "csp-report": {
+        "blocked-uri": "https://fonts.gstatic.com/s/nunitosans/v12/pe0qMImSLYBIv1o4X1M8cce5I9tAcVwob5A.woff2",
+        "document-uri": "http://localhost:8080/index.php",
+        "original-policy": "default-src 'none'; report-uri http://localhost:8080/log.php",
+        "referrer": "",
+        "violated-directive": "default-src",
+        "datetime": "2022-08-24T18:20:54+00:00"
+    }
+}{
+    "csp-report": {
+        "blocked-uri": "https://fonts.gstatic.com/s/nunitosans/v12/pe0qMImSLYBIv1o4X1M8ccewI9tAcVwob5A.woff2",
+        "document-uri": "http://localhost:8080/index.php",
+        "original-policy": "default-src 'none'; report-uri http://localhost:8080/log.php",
+        "referrer": "",
+        "violated-directive": "default-src",
+        "datetime": "2022-08-24T18:20:54+00:00"
+    }
+}
