@@ -10,6 +10,12 @@ For `.htaccess` you should use this:
 
 `Header always set Content-Security-Policy-Report-Only "default-src 'none'; report-uri /csp-log.php"`
 
+If the header is not shown, please try this (which only covers pages with statuscode 200):
+
+`Header set Content-Security-Policy-Report-Only "default-src 'none'; report-uri /csp-log.php"`
+
+**If even this does not work, then please consult your hosting provider**
+
 2. Upload `csp-log.php` and `csp-test.html`.
 
 3. Go to `https://example.com/csp-test.html` (replace `example.com` with your domain name).
